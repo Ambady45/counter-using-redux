@@ -20,7 +20,7 @@ const Counter = () => {
   return (
     <>
                 
-        <div className=' border rounded p-5 text-center w- 75' style={{height:'auto'}}>
+        <div className=' border rounded p-5 m-5 text-center w-75' style={{height:'auto'}}>
              <h1 style={{fontSize:'100px', marginTop:'15px'}}>{count}</h1>  
 
             <div className='d-flex justify-content-between my-5 ms-5'style={{width:'90%'}}>
